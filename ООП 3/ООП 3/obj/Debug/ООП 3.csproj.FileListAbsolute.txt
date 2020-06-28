@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\bin\Debug\ООП 3.exe.config
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\bin\Debug\ООП 3.exe
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\bin\Debug\ООП 3.pdb
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\obj\Debug\ООП 3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\obj\Debug\ООП 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\obj\Debug\ООП 3.exe
+C:\Users\User\Desktop\Программы С#\ООП\ООП 3\ООП 3\obj\Debug\ООП 3.pdb
